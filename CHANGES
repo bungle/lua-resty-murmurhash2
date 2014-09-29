@@ -1,0 +1,4 @@
+
+Changes with lua-resty-murmurhash2 1.0                             29 Sep 2014
+
+    *) Feature: LuaRocks Support via MoonRocks.
