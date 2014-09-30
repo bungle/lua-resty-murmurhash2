@@ -1,6 +1,6 @@
 # lua-resty-murmurhash2
 
-lua-resty-murmurhash2 is MurmurHash 2 library (LuaJIT bindings) for OpenResty's / Nginx's murmurhash2 implementation.
+`lua-resty-murmurhash2` is MurmurHash 2 library (LuaJIT bindings) for OpenResty's / Nginx's murmurhash2 implementation.
 
 ## Lua API
 #### number require "resty.murmurhash2" string
