@@ -1,6 +1,7 @@
-local ffi = require "ffi"
+local ffi      = require "ffi"
 local ffi_cast = ffi.cast
-local C = ffi.C
+local C        = ffi.C
+local tonumber = tonumber
 
 ffi.cdef[[
 typedef unsigned char u_char;
